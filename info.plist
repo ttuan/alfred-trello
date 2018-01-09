@@ -7,7 +7,21 @@
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
-	<dict/>
+	<dict>
+		<key>4B9CB5E2-7E99-42E7-9F51-E40348D05F17</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
 	<key>createdby</key>
 	<string>tuantv</string>
 	<key>description</key>
@@ -28,7 +42,7 @@
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
@@ -56,7 +70,7 @@
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
@@ -65,11 +79,37 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>Search mindnode on my computer</string>
 	<key>uidata</key>
 	<dict>
+		<key>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
 		<key>4B9CB5E2-7E99-42E7-9F51-E40348D05F17</key>
 		<dict>
 			<key>xpos</key>
