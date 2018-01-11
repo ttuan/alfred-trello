@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</string>
+				<string>779FD1C9-18C1-4C5D-9250-412EA65D500E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -94,7 +94,7 @@
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</string>
+			<string>779FD1C9-18C1-4C5D-9250-412EA65D500E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -103,17 +103,17 @@
 	<string>Search mindnode on my computer</string>
 	<key>uidata</key>
 	<dict>
-		<key>1BFBF7FA-28CF-466E-94CE-08725E5D32C5</key>
-		<dict>
-			<key>xpos</key>
-			<integer>730</integer>
-			<key>ypos</key>
-			<integer>50</integer>
-		</dict>
 		<key>4B9CB5E2-7E99-42E7-9F51-E40348D05F17</key>
 		<dict>
 			<key>xpos</key>
 			<integer>350</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>779FD1C9-18C1-4C5D-9250-412EA65D500E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>720</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
